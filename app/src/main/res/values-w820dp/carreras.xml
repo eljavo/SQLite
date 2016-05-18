@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carrera">
+        <item>ISC</item>
+        <item>IGEM</item>
+        <item>IEM</item>
+        <item>Turism</item>
+        <item>GAS</item>
+    </string-array>
+</resources>
